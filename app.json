@@ -1,0 +1,12 @@
+{
+  "name": "idukay-demo",
+  "displayName": "idukay-demo",
+  "expo": {
+    "name": "idukay-demo",
+    "slug": "idukay-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
