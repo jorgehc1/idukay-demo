@@ -1,6 +1,6 @@
 # Idukay  Demo
 
-## Construido con 🛠️
+## Construido con React Native🛠️
 
 _Las siguientes herramientas fueron utilizadas para la elaboracion de este proyecto:_
 
