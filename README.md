@@ -34,7 +34,12 @@ foo@bar:~$ sudo apt install git
 
 ## Despliegue 📦
 
-_Antes de hacer el despiegue, asegurese acceder via CLI o consola en el directorio principal del proyecto y ejecutar el siguiente comando:_
+_Antes de hacer el despiegue, asegurese acceder via CLI o consola en el directorio principal del proyecto y ejecutar el siguiente comando para instalar todas las dependencias necesarias:_
+```console
+foo@bar:~$ yarn install
+foo
+```
+_Luego ejecute:_
 ```console
 foo@bar:~$ yarn web
 foo
