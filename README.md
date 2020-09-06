@@ -9,6 +9,8 @@ _Las siguientes herramientas fueron utilizadas para la elaboracion de este proye
 * [Yarn](https://yarnpkg.com/) - Manejador de dependencias
 * [NodeJS](https://nodejs.org) - Entorno de Ejecucion para Javascript.
 
+_El proyecto fue construido con ayuda del asistente de generador de proyecto(create-react-native-app) ubicado [aqui](https://github.com/expo/create-react-native-app)_
+
 ### Pre-requisitos 📋
 
 _Usted necesita instalar en su sistema operativo, bien sea Linux/Windows o MacOSX, la herramientas [NodeJS](https://nodejs.org/en/download/) y [Yarn](https://yarnpkg.com/), Proceder con instalar [Git](https://git-scm.com/) para poder obtener el proyecto, tambien puede hacerlo usando protocolos Web o SSH._
