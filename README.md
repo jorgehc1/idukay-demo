@@ -11,7 +11,7 @@ _Las siguientes herramientas fueron utilizadas para la elaboracion de este proye
 
 ### Pre-requisitos 📋
 
-_Usted necesita instalar en su sistema operativo, bien sea Linux/Windows o MacOSX, la herramientas [NodeJS](https://nodejs.org/en/download/) y [Yarn](https://yarnpkg.com/), Proceder con instalar [Git](https://git-scm.com/) para poder obtener el proyecto, tambien puede hacerlo usando protocolos Web o SSH.
+_Usted necesita instalar en su sistema operativo, bien sea Linux/Windows o MacOSX, la herramientas [NodeJS](https://nodejs.org/en/download/) y [Yarn](https://yarnpkg.com/), Proceder con instalar [Git](https://git-scm.com/) para poder obtener el proyecto, tambien puede hacerlo usando protocolos Web o SSH._
 
 ### Instalación 🔧
 
