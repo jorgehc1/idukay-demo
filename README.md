@@ -19,11 +19,9 @@ _Debe instalar en su sistema operativo la herramienta NodeJS:_
 ```console
 foo@bar:~$ sudo apt install nodejs
 ```
-_Si dispone de Windows, acceda [aqui](https://https://nodejs.org/en/download/) y siga las instrucciones del instalador_
-_Para obtener mas informacion detallada sobre la instalacion de acuerdo a su distro Linux, debe acceder [aqui](https://nodejs.org/en/download/package-manager/) _
+_Si dispone de Windows, acceda [aqui](https://https://nodejs.org/en/download/) y siga las instrucciones del instalador. Para obtener mas informacion detallada sobre la instalacion de acuerdo a su distro Linux, debe acceder [aqui](https://nodejs.org/en/download/package-manager/) _
 
-_Debe instalar la herramienta Yarn si aun no dispone de la misma:_
-_En la documentacion de Yarn ofrecida [aqui](https://classic.yarnpkg.com/en/docs/install#windows-stable), explica detalladamente la instalacion de la misma de acuerdo al sistema operativo que disponga._
+_Debe instalar la herramienta Yarn si aun no dispone de la misma. En la documentacion de Yarn ofrecida [aqui](https://classic.yarnpkg.com/en/docs/install#windows-stable), explica detalladamente la instalacion de la misma de acuerdo al sistema operativo que disponga._
 
 _Para hacer uso del proyecto, usted debe clonar este repositorio en el directorio de su preferenciacon con el siguiente comando:_
 ```console
