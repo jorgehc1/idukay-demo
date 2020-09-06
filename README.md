@@ -18,7 +18,6 @@ _Usted necesita instalar en su sistema operativo, bien sea Linux/Windows o MacOS
 _Debe instalar en su sistema operativo la herramienta NodeJS:_
 ```console
 foo@bar:~$ sudo apt install nodejs
-foo
 ```
 _Si dispone de Windows, acceda [aqui](https://https://nodejs.org/en/download/) y siga las instrucciones del instalador_
 _Para obtener mas informacion detallada sobre la instalacion de acuerdo a su distro Linux, debe acceder [aqui](https://nodejs.org/en/download/package-manager/) _
@@ -29,12 +28,10 @@ _En la documentacion de Yarn ofrecida [aqui](https://classic.yarnpkg.com/en/docs
 _Para hacer uso del proyecto, usted debe clonar este repositorio en el directorio de su preferenciacon con el siguiente comando:_
 ```console
 foo@bar:~$ git clone https://github.com/jorgehc1/idukay-demo
-foo
 ```
 _Si aun no dispone de Git, puede obtenerlo [aqui](https://git-scm.com/downloads), disponible para Linux/Windows/MacOSX. Si dispone de Linux, ejecute el siguiente comando:_
 ```console
 foo@bar:~$ sudo apt install git
-foo
 ```
 
 ## Despliegue 📦
